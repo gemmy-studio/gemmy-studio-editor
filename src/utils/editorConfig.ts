@@ -1,4 +1,3 @@
-import '@blocknote/react/style.css';
 import { darkDefaultTheme, lightDefaultTheme, Theme } from '@blocknote/react';
 
 // const componentStyles = (theme: Theme) => ({
