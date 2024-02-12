@@ -1,0 +1,30 @@
+{
+  "name": "gemmy-studio-editor",
+  "version": "0.0.0",
+  "description": "Highly customizable, React-based blocknote component extracted from Gemmy Studio, now open-sourced for flexible integration and enhancement.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gemmy-studio/gemmy-studio-editor.git"
+  },
+  "author": "Woojae Lim <woojae0445@gmail.com> (https://gemmy.studio/@우재)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/gemmy-studio/gemmy-studio-editor/issues"
+  },
+  "homepage": "https://github.com/gemmy-studio/gemmy-studio-editor#readme",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "dependencies": {
+    "@blocknote/core": "^0.11.2",
+    "@blocknote/react": "^0.11.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.55",
+    "typescript": "^5.3.3"
+  }
+}

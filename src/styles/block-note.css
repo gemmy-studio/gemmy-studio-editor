@@ -1,0 +1,8 @@
+@media (max-width: 600px) {
+  .bn-editor {
+    padding-inline: 0;
+  }
+  .bn-side-menu {
+    display: none;
+  }
+}
