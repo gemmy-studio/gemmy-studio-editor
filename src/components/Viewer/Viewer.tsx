@@ -5,8 +5,6 @@ import { BlockNoteEditor } from '@blocknote/core';
 import { BlockNoteView, useBlockNote } from '@blocknote/react';
 import editorTheme from '../../utils/editorConfig';
 
-import '../../styles/block-note.module.css';
-
 interface IEditorProps {
   initialContent: any;
 }

@@ -1,6 +1,6 @@
 {
   "name": "gemmy-studio-editor",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Highly customizable, React-based blocknote component extracted from Gemmy Studio, now open-sourced for flexible integration and enhancement.",
   "main": "src/index.ts",
   "types": "src/index.ts",

@@ -6,8 +6,6 @@ import { BlockNoteView, useBlockNote } from '@blocknote/react';
 import editorTheme from '../../utils/editorConfig';
 import { v4 as uuidv4 } from 'uuid';
 
-import '../../styles/block-note.module.css';
-
 interface IEditorProps {
   initialContent: any;
   updatePostContent: any;
