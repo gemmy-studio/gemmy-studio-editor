@@ -1,8 +1,21 @@
-@media (max-width: 600px) {
+.bn-editor {
+  padding-inline: 0;
+}
+.bn-side-menu {
+  display: none;
+}
+
+@media (min-width: 900px) {
   .bn-editor {
-    padding-inline: 0;
+    padding-inline: 54px 0;
   }
   .bn-side-menu {
-    display: none;
+    display: flex;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bn-editor {
+    padding-inline: 54px;
   }
 }
